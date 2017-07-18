@@ -1,0 +1,58 @@
+/* Global Styling */
+html {
+  text-align: center;
+  font-family: helvetica;
+}
+
+.header {
+  height: 295px;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
+/* Content Section */
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+nav {
+  color: white;
+  text-decoration: underline;
+  font-size: 15px;
+  position: relative;
+  bottom: 10px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3.subheading {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.pagebreak {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
+div.footer {
+  text-align: left;
+  color: white;
+  background-color: dimgray;
+}
+
+p.shrink {
+  font-size: 11px;
+}
+
+span {
+  font-size: 18px;
+  margin-right: 2px;
+  text-decoration: underline;
+}
